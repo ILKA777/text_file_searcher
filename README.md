@@ -14,8 +14,13 @@
 При написании программы использовались следующие ресурсы:
 
 https://overcoder.net/q/328782/объединение-нескольких-файлов-txt-в-java
+
 https://russianblogs.com/article/38165640/
+
 https://vertex-academy.com/tutorials/ru/sortirovka-puzyrkom-v-java/
+
 https://javadevblog.com/kak-postrochno-schity-vat-fajl-v-java.html
+
 https://javadevblog.com/kak-uznat-rasshirenie-fajla-v-java.html
+
 https://www.frolov-lib.ru/programming/javasamples/vol7/vol7_30/index.html
